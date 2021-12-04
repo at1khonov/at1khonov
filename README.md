@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @at1khonov
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Python
